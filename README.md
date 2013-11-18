@@ -1,7 +1,7 @@
-macscripts
+Free & Fast Photo resize for windows users
 ==========
 
-Quick & Free Photo Resize that you can install on your girl-friend's laptop, or your granny's desktop.
+Free & Fast Photo Resize that you can install on your girl-friend's laptop, or your granny's desktop.
 
 
 Step 1: Download and install imagemagick from http://www.imagemagick.org/script/binary-releases.php#windows
